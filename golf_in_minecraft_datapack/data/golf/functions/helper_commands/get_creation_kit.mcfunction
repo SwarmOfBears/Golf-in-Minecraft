@@ -1,0 +1,2 @@
+tellraw @s ["[",{"text":"Golf","color":"gold"},"] Recieved Golf Creation Tool."]
+give @s warped_fungus_on_a_stick{display:{Name:'{"text":"Golf Creation Tool","color":"gold","italic":false}',Lore:['{"text":"Used to build Golf Structures.","color":"blue","italic":false}','{"text":"Right-click to use.","color":"blue","italic":false}']},CustomModelData:420,creationKit:1} 1

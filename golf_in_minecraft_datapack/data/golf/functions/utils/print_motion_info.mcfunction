@@ -1,0 +1,2 @@
+# Motion debugs
+tellraw @a ["[Golf Debug] Motion: ", "[X: ",{"score":{"name": "@s","objective": "golf.motionX3"}},"][Y: ",{"score":{"name": "@s","objective": "golf.motionY3"}},"][Z: ",{"score":{"name": "@s","objective": "golf.motionZ3"}},"]"]

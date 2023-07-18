@@ -1,0 +1,59 @@
+{
+   	"duffed_it": {
+		"sounds": [
+			{
+				"name": "golf:duffed_it"
+			}
+		]
+	},   	
+	"fart": {
+		"sounds": [
+			{
+				"name": "golf:fart"
+			}
+		]
+	},   	
+	"golf_score": {
+		"sounds": [
+			{
+				"name": "golf:golf_score"
+			}
+		]
+	},   	
+	"golf_swing": {
+		"sounds": [
+			{
+				"name": "golf:golf_swing"
+			}
+		]
+	},   	
+	"swing_2": {
+		"sounds": [
+			{
+				"name": "golf:golf_swing_2"
+			}
+		]
+	},   	
+	"swing_3": {
+		"sounds": [
+			{
+				"name": "golf:golf_swing_3"
+			}
+		]
+	},   	
+	"theme": {
+		"sounds": [
+			{
+				"name": "golf:golf_theme",
+				"stream": true
+			}
+		]
+	},
+	"ball": {
+		"sounds": [
+			{
+				"name": "golf:ball"
+			}
+		]
+	}
+}

@@ -1,0 +1,1 @@
+setblock ~ ~ ~ structure_block[mode=load]{name:"golf:clubhouse",rotation:"NONE",mirror:"NONE",mode:"LOAD",ignoreEntities:0b} replace

@@ -1,0 +1,13 @@
+{
+  "_comment": "Rocky terrain that heavily penalizes vertical motion (lift).",
+    "replace": true,
+    "values": [
+      "minecraft:granite",
+      "minecraft:stone",
+      "minecraft:cobblestone",
+      "minecraft:deepslate",
+      "minecraft:andesite",
+      "minecraft:blackstone",
+      "minecraft:gravel"
+    ]
+  }

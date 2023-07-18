@@ -1,0 +1,16 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:player_hurt_entity",
+        "conditions": {
+          "entity": {
+            "type": "mooshroom",
+            "nbt": "{Tags:[\"golfBall\"]}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "golf:main_on_hit"
+    }
+  }

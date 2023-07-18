@@ -1,0 +1,8 @@
+{
+    "_comment": "Major penalty terrain.  Basically unplayable unless you use the Sand Wedge.",
+    "replace": true,
+    "values": [
+      "minecraft:soul_sand",
+      "minecraft:soul_soil"
+    ]
+  }

@@ -1,0 +1,32 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/nautilus_shell/long_iron"
+	},		
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [110, -77, -155],
+			"translation": [0.25, 3.75, -4.25],
+			"scale": [1.28, 1.26, 1.34]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [127, 88, -144],
+			"translation": [0.5, 2, 4.25],
+			"scale": [1.28, 1.26, 1.34]
+		},
+		"firstperson_righthand": {
+			"rotation": [35, -75, 110],
+			"translation": [1.38, 2.7, 0.38],
+			"scale": [1.35, 2.0, 1.0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-138, 98, -29],
+			"translation": [1.38, 2.7, 0.38],
+			"scale": [0.69, 0.92, 0.68]
+		},
+		"gui": {
+			"translation": [0, 0.25, 0],
+			"scale": [1.1, 1, 1]
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "entity": {
+          "type": "interaction",
+          "nbt": "{Tags:[\"golfTee\"]}"
+              }
+          }
+      }
+  },
+  "rewards": {
+    "function": "golf:creation/tee_box_new_ball"
+  }
+}

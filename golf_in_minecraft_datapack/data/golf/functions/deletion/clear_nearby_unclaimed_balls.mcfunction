@@ -1,0 +1,1 @@
+kill @e[type=mooshroom,name="Fresh Golf Ball",limit=1,sort=nearest,distance=..10]

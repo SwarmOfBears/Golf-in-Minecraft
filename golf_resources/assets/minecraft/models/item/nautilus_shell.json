@@ -1,0 +1,13 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/nautilus_shell"
+    },
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/nautilus_shell/driver"},
+		{ "predicate": { "custom_model_data": 2}, "model": "item/nautilus_shell/long_iron"},
+		{ "predicate": { "custom_model_data": 3}, "model": "item/nautilus_shell/sand_wedge"},
+		{ "predicate": { "custom_model_data": 4}, "model": "item/nautilus_shell/putter"}
+    ]
+}
+

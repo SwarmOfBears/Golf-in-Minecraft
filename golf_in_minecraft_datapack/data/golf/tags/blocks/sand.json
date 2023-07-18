@@ -1,0 +1,8 @@
+{
+    "_comment": "Penalty terrain - major decrease in distance for most clubs.",
+    "replace": true,
+    "values": [
+      "minecraft:sand",
+      "minecraft:clay"
+    ]
+  }

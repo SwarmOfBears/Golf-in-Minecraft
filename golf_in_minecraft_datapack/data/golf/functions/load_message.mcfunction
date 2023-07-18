@@ -1,0 +1,3 @@
+# Load message
+execute if score #golf.settings.load_message golf.settings matches 1 run tellraw @a ["","<",{"text":"Golf","color":"gold"},"> Welcome to Golf in Minecraft!  Use the menu below to get started:","\n",{"text":"    <Get Creation Kit>","bold":true,"color":"aqua","clickEvent":{"action":"run_command","value":"/function golf:helper_commands/get_creation_kit"}},"\n",{"text":"    <Get  Clubs>","bold":true,"color":"aqua","clickEvent":{"action":"run_command","value":"/function golf:helper_commands/get_clubs"}},"\n",{"text":"    <About>","bold":true,"color":"aqua","clickEvent":{"action":"run_command","value":"/function golf:helper_commands/about"}}]
+scoreboard players set #golf.loaded golf.bool 1
